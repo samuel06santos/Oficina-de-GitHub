@@ -16,7 +16,7 @@ def main(page=Page):
             horizontal_alignment=CrossAxisAlignment.CENTER,
             expand=True,
             controls=[
-                Text("Oficina de GitHub", size=32),
+                Text("Oficina de GitHub parte 2", size=32),
                 Image(src=r"LabSC.png", width=200),
                 Text("LabSC", size=48),
                 Text("Laboratório de Segurança e Criptografia aplicada.", size=24)
